@@ -1,0 +1,29 @@
+{
+  "name": "jsontokline",
+  "version": "1.0.0",
+  "description": "Use json data to draw k line charts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chic1018/JsonToKLine.git"
+  },
+  "keywords": [
+    "Vue",
+    "TypeScript"
+  ],
+  "author": "chic1018",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/chic1018/JsonToKLine/issues"
+  },
+  "homepage": "https://github.com/chic1018/JsonToKLine#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "klinecharts": "^9.5.4"
+  }
+}
